@@ -1,6 +1,6 @@
 Welcome! 👋
 
-This is the GitHub Organisation for the [Royal Statistical Society](https://rss.org.uk/) Charity Datathon 2024.
+This is the GitHub Organisation for the [Royal Statistical Society (RSS)](https://rss.org.uk/) Charity Datathon 2024.
 
 This is an event in collaboration with the
 [RSS Statisticians for Society (S4S) initiative](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/).
