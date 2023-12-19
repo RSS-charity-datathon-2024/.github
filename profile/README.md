@@ -13,7 +13,7 @@ Join us on this journey of innovation, exploration, and problem-solving as we ha
 Similar to hackathons, a datathon is an event where participants gather to solve practical problems through the application of data science tools and techniques, by working together in teams to generate insights and potential solutions.
 These events create a special sense of purpose to achieve something greater collectively in a relatively short space of timethat often emerge when working intensely in a time-bound setting.
 Participants will present their work and findings at the end.
-If you’re passionate about tackling interesting challenges met by UK charities, a Datathon is for you.
+If you’re passionate about tackling interesting challenges met by UK charities, a datathon is for you.
 
 ### How is the datathon organized?
 There are a few key components:
@@ -31,7 +31,8 @@ Some past project tackled by the S4S volunteers and potentially appropriate for 
 * [National Survivor User Network (NSUN) activity analysis](https://rss.org.uk/membership/volunteering-and-promoting/statisticians-for-society-initiative/case-studies/national-survivor-user-network/) Past members’ surveys were analysed for representativeness of the general membership. Trends in membership demographics and interests were tracked over 10 years and presented graphically.
 
 ### Who can particpate?
-Teams of 3-5 researchers, students, professionals from academia, national statistical offices, other government agencies, private sector companies or enthusiasts with a background in data science, statistics, economics, and social sciences are all welcome to apply!
+Just like for the current S4S project work, participants of the datathon must be fellows of the RSS.
+Beyond that, teams of 3-5 researchers, students, professionals from academia, national statistical offices, other government agencies, private sector companies or enthusiasts with a background in data science, statistics, economics, and social sciences are all welcome to apply!
 
 ### When is it?
 The datathon will be organized Spring 2024 in London. The final date has yet to be confirmed.
@@ -40,7 +41,7 @@ The event will be held over the course of two days. This will hopefully sustain 
 ### Where is it held?
 This will be a mix of in-person and virtual collaborations.
 The in-person event will take place at RSS headquarters, Errol Street, London.
-Remote participattion will use Zoom and GitHub.
+Remote participation will use Zoom and GitHub.
 
 ### After the event
 Teams and charities will continue to be in contact to ensure that all the needs of the project are fully met. 
