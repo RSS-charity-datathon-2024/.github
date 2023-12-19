@@ -32,11 +32,14 @@ Some past project tackled by the S4S volunteers and potentially appropriate for 
 
 ### Who can particpate?
 Just like for the current S4S project work, participants of the datathon must be fellows of the RSS.
-Beyond that, teams of 3-5 researchers, students, professionals from academia, national statistical offices, other government agencies, private sector companies or enthusiasts with a background in data science, statistics, economics, and social sciences are all welcome to apply!
+Beyond that, teams of 3-5 researchers, students, professionals from academia, government agencies, private sector companies or enthusiasts with a background in data science, statistics, economics, and social sciences are all welcome to apply!
+Teams will be defined prior to the day of the event so that teams can start as soon as possible. They will be selected according to the skills specified in the application process and one person will be the team leader.
 
 ### When is it?
 The datathon will be organized Spring 2024 in London. The final date has yet to be confirmed.
-The event will be held over the course of two days. This will hopefully sustain engagement and still be long enough to meet our objectives.
+The event will be held over the course of one days. This will hopefully sustain engagement and still be long enough to meet our objectives. Future events may be longer, over several days.
+We will start in the morning with problem presentations and team forming and then begin exploring the data.
+Coffee will be available throughout the day and lunch will be provided.
 
 ### Where is it held?
 This will be a mix of in-person and virtual collaborations.
