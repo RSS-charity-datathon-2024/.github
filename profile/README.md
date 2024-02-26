@@ -18,7 +18,7 @@ If you’re passionate about tackling interesting challenges met by UK charities
 ### How is the datathon organized?
 There are a few key components:
 
-* Available problems and data: Representative from charities will be involved throughout. They will be the problem customdians and help to define and steer the projects.
+* Available problems and data: Representative from charities will be involved throughout. They will be the problem custodians and help to define and steer the projects.
 * A positive environment for participants to learn new data skills and produce impactful results
 * A chance for participants to make professional connections, and for everyone to have fun :tada:!
 
